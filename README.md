@@ -44,4 +44,6 @@ __Melhoria 1__, _Melhoria 2_
 
 [Google](https://www.google.com.br)
 
-Contribuidor principal: https://github.com/gabrielgirami2
+**Contribuidor principal:** https://github.com/gabrielgirami2
+
+[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png)](https://github.com/gabrielgirami2)
