@@ -59,7 +59,7 @@ function soma (a,b) {
 
 ## Lista de tarefas a fazer
 
-- [ X ] Área de membros
+- [X] Área de membros
 - [ ] Integração com outros pagamentos
 - [ ] Sistema de Bonus
-- [ X ] CSS do rodapé
+- [X] CSS do rodapé
