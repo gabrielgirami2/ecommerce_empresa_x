@@ -5,3 +5,8 @@
 ## Funcionalidades:
 
 Checkout, Tela de Produto, Catálogo, Home com banner
+
+
+###### Melhorias do projeto:
+
+Melhoria 1, Melhoria 2
