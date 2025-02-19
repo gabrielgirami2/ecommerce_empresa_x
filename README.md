@@ -28,3 +28,8 @@ __Melhoria 1__, _Melhoria 2_
     3. CSS diferente para grupo de cliente
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+
+#### Imagem Local
+
+![Logo do Python](img/python.png)
